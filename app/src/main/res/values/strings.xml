@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Кубик</string>
+    <string name="btn_text">Сменить скорость</string>
+    <string name="exit_btn_text">Выход</string>
+</resources>
